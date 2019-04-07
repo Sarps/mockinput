@@ -12,7 +12,7 @@ setup(
     version='0.1',
     # The license can be anything you like
     license='MIT',
-    description='Mock input for locally testing hackerank or hackerearth challenges before uploading",
+    description='Mock input for locally testing hackerank or hackerearth challenges before uploading',
     # We will also need a readme eventually (there will be a warning)
     # long_description=open('README.txt').read(),
 )
